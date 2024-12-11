@@ -1,5 +1,6 @@
 # BUDGET-PLANNER
 #ABSTRACT
+
 The Budget Application Manager is an intuitive and robust financial management tool designed 
 to streamline the process of creating, tracking, and analysing personal or organizational 
 budgets. It empowers users to set financial goals, monitor expenses, and optimize their 
