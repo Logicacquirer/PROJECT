@@ -17,3 +17,4 @@ Designed for scalability, it is suitable for both novice and advanced users, off
 insights through AI-driven financial recommendations. 
 By fostering better financial habits and simplifying the budgeting process, the Budget 
 Application Manager is a vital tool for achieving financial stability and long-term success.
+![image](https://github.com/user-attachments/assets/09234ec2-e92c-41ce-a243-6957db3675c5)
