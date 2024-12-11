@@ -16,4 +16,4 @@ synchronization, ensuring accessibility across multiple devices while maintainin
 Designed for scalability, it is suitable for both novice and advanced users, offering personalized 
 insights through AI-driven financial recommendations. 
 By fostering better financial habits and simplifying the budgeting process, the Budget 
-Application Manager is a vital tool for achieving financial stability and long-term success. 
+Application Manager is a vital tool for achieving financial stability and long-term success.
